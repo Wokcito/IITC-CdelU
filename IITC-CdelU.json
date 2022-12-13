@@ -162,12 +162,6 @@
             "name": "Busto Nestor Kirchner",
             "isEx": true
         },
-        "5b06ba3e64b64d60bf0745e49ae992a4.16": {
-            "guid": "5b06ba3e64b64d60bf0745e49ae992a4.16",
-            "lat": -32.496332,
-            "lng": -58.226359,
-            "name": "Faro de Concepción del Uruguay"
-        },
         "7a6fe4ef8f884c2180dc102459b901ba.16": {
             "guid": "7a6fe4ef8f884c2180dc102459b901ba.16",
             "lat": -32.495225,
@@ -235,13 +229,6 @@
             "lat": -32.477659,
             "lng": -58.221636,
             "name": "Virgen En Santuario"
-        },
-        "0614399aa734442c81c0b0a32e9f8c2a.16": {
-            "guid": "0614399aa734442c81c0b0a32e9f8c2a.16",
-            "lat": -32.478741,
-            "lng": -58.222236,
-            "name": "Monumento Al Marino",
-            "isEx": true
         },
         "1f0fbbb32feb4d378256674636b1317b.16": {
             "guid": "1f0fbbb32feb4d378256674636b1317b.16",
@@ -454,6 +441,73 @@
             "lat": -32.467338,
             "lng": -58.237707,
             "name": "Iglesia san isidro"
+        },
+        "5b06ba3e64b64d60bf0745e49ae992a4.16": {
+            "guid": "5b06ba3e64b64d60bf0745e49ae992a4.16",
+            "lat": -32.496332,
+            "lng": -58.226359,
+            "name": "Faro de Concepción del Uruguay"
+        },
+        "daa65855378f483a80cdce42b8ad33bc.16": {
+            "guid": "daa65855378f483a80cdce42b8ad33bc.16",
+            "lat": -32.487207,
+            "lng": -58.253095,
+            "name": "Monumento Ángeles"
+        },
+        "ce8867f979df42fda9f2231ba1cd4609.16": {
+            "guid": "ce8867f979df42fda9f2231ba1cd4609.16",
+            "lat": -32.487101,
+            "lng": -58.252195,
+            "name": "Lions Internatinal - Escultura"
+        },
+        "298729919e65384bb125503dabc31130.16": {
+            "guid": "298729919e65384bb125503dabc31130.16",
+            "lat": -32.485538,
+            "lng": -58.252616,
+            "name": "Virgencita de Luján"
+        },
+        "ffd53ef5693149d6a18700af2cfd5b3c.16": {
+            "guid": "ffd53ef5693149d6a18700af2cfd5b3c.16",
+            "lat": -32.485199,
+            "lng": -58.255691,
+            "name": "Iglesia Cristiana Betesda"
+        },
+        "0f9e157d956544609bac5ef23f5d3cce.16": {
+            "guid": "0f9e157d956544609bac5ef23f5d3cce.16",
+            "lat": -32.48841,
+            "lng": -58.260653,
+            "name": "Monumento: General Urquiza"
+        },
+        "009e81ce5be5404785ff055ef29f0fa3.16": {
+            "guid": "009e81ce5be5404785ff055ef29f0fa3.16",
+            "lat": -32.48785,
+            "lng": -58.260773,
+            "name": "Santa Biblia"
+        },
+        "a195175b90b74d4fa4b78e2df8316da4.16": {
+            "guid": "a195175b90b74d4fa4b78e2df8316da4.16",
+            "lat": -32.49321,
+            "lng": -58.258466,
+            "name": "Juego Infantil. Plaza"
+        },
+        "3c7b87dea4dd44769acee6b157c30690.16": {
+            "guid": "3c7b87dea4dd44769acee6b157c30690.16",
+            "lat": -32.493412,
+            "lng": -58.259721,
+            "name": "Altar homenaje a la virgen Santa Teresita"
+        },
+        "14b56ec1c7644eebb471fda07b533fc1.16": {
+            "guid": "14b56ec1c7644eebb471fda07b533fc1.16",
+            "lat": -32.494671,
+            "lng": -58.259423,
+            "name": "Virgen \"Maria Auxiliadora\" 2"
+        },
+        "0614399aa734442c81c0b0a32e9f8c2a.16": {
+            "guid": "0614399aa734442c81c0b0a32e9f8c2a.16",
+            "lat": -32.478741,
+            "lng": -58.222236,
+            "name": "Monumento Al Marino",
+            "isEx": true
         }
     },
     "pokestops": {
@@ -1723,12 +1777,6 @@
             "lng": -58.221387,
             "name": "Busto Brown"
         },
-        "f929efc2144748dba81b1a4617e593ff.16": {
-            "guid": "f929efc2144748dba81b1a4617e593ff.16",
-            "lat": -32.478468,
-            "lng": -58.222281,
-            "name": "Parque de Juegos Saludables"
-        },
         "69a5e6040860403299dbb109aa751dc4.16": {
             "guid": "69a5e6040860403299dbb109aa751dc4.16",
             "lat": -32.478828,
@@ -2904,6 +2952,234 @@
             "lat": -32.469532,
             "lng": -58.236819,
             "name": "Virgen de la medalla milagrosa"
+        },
+        "0746acfeb0ab38e4819c3386a16feec0.16": {
+            "guid": "0746acfeb0ab38e4819c3386a16feec0.16",
+            "lat": -32.487655,
+            "lng": -58.253722,
+            "name": "La Delfina"
+        },
+        "2b9d1ecf35e432cf802d95a20f661811.16": {
+            "guid": "2b9d1ecf35e432cf802d95a20f661811.16",
+            "lat": -32.48765,
+            "lng": -58.254895,
+            "name": "Plano de la ciudad"
+        },
+        "8780858a83304041bd3ef1d70bcbb2ac.16": {
+            "guid": "8780858a83304041bd3ef1d70bcbb2ac.16",
+            "lat": -32.487415,
+            "lng": -58.252804,
+            "name": "Mural Justo José de Urquiza"
+        },
+        "d689c482d5433281b0f551234725cb88.16": {
+            "guid": "d689c482d5433281b0f551234725cb88.16",
+            "lat": -32.487325,
+            "lng": -58.253991,
+            "name": "Paseo Peatonal Sansoni"
+        },
+        "88d371b2cad736bbb56d9c63c0360c75.16": {
+            "guid": "88d371b2cad736bbb56d9c63c0360c75.16",
+            "lat": -32.487558,
+            "lng": -58.254126,
+            "name": "Batalla del General Ramírez y la Delfina"
+        },
+        "637acb7760c236789cb61f68bc47e235.16": {
+            "guid": "637acb7760c236789cb61f68bc47e235.16",
+            "lat": -32.487735,
+            "lng": -58.254174,
+            "name": "General Francisco Ramírez"
+        },
+        "57fe06bb553e4fb8b35dfb47de3b1b6f.16": {
+            "guid": "57fe06bb553e4fb8b35dfb47de3b1b6f.16",
+            "lat": -32.488677,
+            "lng": -58.257123,
+            "name": "Iglesia Del Rio de la Plata"
+        },
+        "ad52b7e68e023fd1b2187193510f9c9c.16": {
+            "guid": "ad52b7e68e023fd1b2187193510f9c9c.16",
+            "lat": -32.489174,
+            "lng": -58.255698,
+            "name": "El 2° Mega Tanque"
+        },
+        "2a83e88c094049a6b1aa0ffa8bb852e7.16": {
+            "guid": "2a83e88c094049a6b1aa0ffa8bb852e7.16",
+            "lat": -32.489559,
+            "lng": -58.255413,
+            "name": "Cementerio Israelita"
+        },
+        "38d6e762365d45dbb2dbd5dbc0401425.16": {
+            "guid": "38d6e762365d45dbb2dbd5dbc0401425.16",
+            "lat": -32.490305,
+            "lng": -58.256232,
+            "name": "Mural Familia felíz"
+        },
+        "3c5c0b7442ba44a38cb7f6a34d82c939.16": {
+            "guid": "3c5c0b7442ba44a38cb7f6a34d82c939.16",
+            "lat": -32.490025,
+            "lng": -58.254335,
+            "name": "Monolito homenaje: San José"
+        },
+        "df8ead91126246b3a0f7f5c91dc7ceff.16": {
+            "guid": "df8ead91126246b3a0f7f5c91dc7ceff.16",
+            "lat": -32.489077,
+            "lng": -58.253227,
+            "name": "Virgen Protectora del Cementerio"
+        },
+        "9e97be92f6033e6f8033bf37529e4313.16": {
+            "guid": "9e97be92f6033e6f8033bf37529e4313.16",
+            "lat": -32.48555,
+            "lng": -58.25325,
+            "name": "Asociación de Cooperativas Argentinas"
+        },
+        "87e8bf1242464e28b4c6839c94cc4e4e.16": {
+            "guid": "87e8bf1242464e28b4c6839c94cc4e4e.16",
+            "lat": -32.486499,
+            "lng": -58.252892,
+            "name": "Cartel ASDCU"
+        },
+        "61a120a1364243cbb40d6c3b82ecdf56.16": {
+            "guid": "61a120a1364243cbb40d6c3b82ecdf56.16",
+            "lat": -32.4865,
+            "lng": -58.25755,
+            "name": "Virgen Milagrosa"
+        },
+        "bba2f070e74e4402beead1e889fd47d6.16": {
+            "guid": "bba2f070e74e4402beead1e889fd47d6.16",
+            "lat": -32.485625,
+            "lng": -58.25704,
+            "name": "\"Hermita Religiosa a San Francisco de Asís\"."
+        },
+        "3c705268cda346729ffb1f7cf2fbec0f.16": {
+            "guid": "3c705268cda346729ffb1f7cf2fbec0f.16",
+            "lat": -32.48825,
+            "lng": -58.259705,
+            "name": "Parque de juegos saludable"
+        },
+        "1b444df3f4c047138c8754a5d6ce45a8.16": {
+            "guid": "1b444df3f4c047138c8754a5d6ce45a8.16",
+            "lat": -32.488529,
+            "lng": -58.259851,
+            "name": "Escudo Concepción Del Uruguay"
+        },
+        "e8f58491429f4d16b925b3663ef5a8f1.16": {
+            "guid": "e8f58491429f4d16b925b3663ef5a8f1.16",
+            "lat": -32.488261,
+            "lng": -58.262578,
+            "name": "Santuario \"Gauchito Gil\""
+        },
+        "05a7bf3f71154ca99dd63dd146db6d75.16": {
+            "guid": "05a7bf3f71154ca99dd63dd146db6d75.16",
+            "lat": -32.484924,
+            "lng": -58.261174,
+            "name": "Templo Ríos de Vida"
+        },
+        "09a6d4b72a983e5c9ff1512c67435f1b.16": {
+            "guid": "09a6d4b72a983e5c9ff1512c67435f1b.16",
+            "lat": -32.485686,
+            "lng": -58.260625,
+            "name": "Tanque B° Quinta La Paz"
+        },
+        "43df56ccb15a44e6a9c5e337061b93ff.16": {
+            "guid": "43df56ccb15a44e6a9c5e337061b93ff.16",
+            "lat": -32.485367,
+            "lng": -58.260286,
+            "name": "Placa: Barrio Quinta La Paz"
+        },
+        "d28281a7292648d2a48f92a8b6575df3.16": {
+            "guid": "d28281a7292648d2a48f92a8b6575df3.16",
+            "lat": -32.488228,
+            "lng": -58.258601,
+            "name": "¡Auto Loco!"
+        },
+        "2369c2b6537f46a291854fb77e827e10.16": {
+            "guid": "2369c2b6537f46a291854fb77e827e10.16",
+            "lat": -32.487635,
+            "lng": -58.258234,
+            "name": "Mural: \"Ave Fénix y Soldador\""
+        },
+        "2b4db98c07f53f95b0cfb48cb5c123f5.16": {
+            "guid": "2b4db98c07f53f95b0cfb48cb5c123f5.16",
+            "lat": -32.486634,
+            "lng": -58.258311,
+            "name": "Barrio Inocencio R.Giles"
+        },
+        "30fe6788670436ab803e15925386c15b.16": {
+            "guid": "30fe6788670436ab803e15925386c15b.16",
+            "lat": -32.485687,
+            "lng": -58.258594,
+            "name": "\"La Chinita\""
+        },
+        "18a7ce6047f3443d87f2de1898b697e5.16": {
+            "guid": "18a7ce6047f3443d87f2de1898b697e5.16",
+            "lat": -32.492787,
+            "lng": -58.258304,
+            "name": "Busto Homenaje a Gral. Güemes."
+        },
+        "cc4bd38e71224c27a34c0c76322d5986.16": {
+            "guid": "cc4bd38e71224c27a34c0c76322d5986.16",
+            "lat": -32.492626,
+            "lng": -58.258592,
+            "name": "Monolito Virgen María"
+        },
+        "992b855e0b484a098e917f14e8df6cf3.16": {
+            "guid": "992b855e0b484a098e917f14e8df6cf3.16",
+            "lat": -32.492579,
+            "lng": -58.258346,
+            "name": "Plazoleta: General Martin M. de Güemes"
+        },
+        "9b153016446540d99367c5c3221e6f10.16": {
+            "guid": "9b153016446540d99367c5c3221e6f10.16",
+            "lat": -32.492169,
+            "lng": -58.258919,
+            "name": "Placa homenaje: Dr. Italo Max Desideri"
+        },
+        "93f55f58a2944b1198dde5112f697284.16": {
+            "guid": "93f55f58a2944b1198dde5112f697284.16",
+            "lat": -32.492038,
+            "lng": -58.259667,
+            "name": "Mural: Zaida."
+        },
+        "2ca91fea260b4d36a673183f1d18edf9.16": {
+            "guid": "2ca91fea260b4d36a673183f1d18edf9.16",
+            "lat": -32.490835,
+            "lng": -58.259721,
+            "name": "Asociación civil: Peña Angel Clemente Rojas"
+        },
+        "73650e15743b4feb837f24e6e1862026.16": {
+            "guid": "73650e15743b4feb837f24e6e1862026.16",
+            "lat": -32.489984,
+            "lng": -58.259402,
+            "name": "Club social y deportivo Bajada Grande"
+        },
+        "4b80371fd7cf4057b41334f29c21da9f.16": {
+            "guid": "4b80371fd7cf4057b41334f29c21da9f.16",
+            "lat": -32.489174,
+            "lng": -58.259359,
+            "name": "Iglesia pentecostal de santidad"
+        },
+        "3dbac0e915d643d3a38849cc3c07566d.16": {
+            "guid": "3dbac0e915d643d3a38849cc3c07566d.16",
+            "lat": -32.489946,
+            "lng": -58.257805,
+            "name": "Hermita: San Expedito"
+        },
+        "2a8724b781524b8cb6605f7252627c91.16": {
+            "guid": "2a8724b781524b8cb6605f7252627c91.16",
+            "lat": -32.494338,
+            "lng": -58.261455,
+            "name": "Catedral de la FE"
+        },
+        "f929efc2144748dba81b1a4617e593ff.16": {
+            "guid": "f929efc2144748dba81b1a4617e593ff.16",
+            "lat": -32.478468,
+            "lng": -58.222281,
+            "name": "Parque de Juegos Saludables"
+        },
+        "110f6d78664b46dbb6013341fcb14003.16": {
+            "guid": "110f6d78664b46dbb6013341fcb14003.16",
+            "lat": -32.478849,
+            "lng": -58.222212,
+            "name": "Wenceslao Gadea - Busto"
         }
     },
     "notpogo": {},
