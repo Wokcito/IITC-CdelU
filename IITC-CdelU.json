@@ -154,6 +154,75 @@
             "lat": -32.496027,
             "lng": -58.229566,
             "name": "UTN - FRCU"
+        },
+        "38e922abe25545c6a4892a8a2dd205f9.16": {
+            "guid": "38e922abe25545c6a4892a8a2dd205f9.16",
+            "lat": -32.497673,
+            "lng": -58.228849,
+            "name": "Busto Nestor Kirchner",
+            "isEx": true
+        },
+        "5b06ba3e64b64d60bf0745e49ae992a4.16": {
+            "guid": "5b06ba3e64b64d60bf0745e49ae992a4.16",
+            "lat": -32.496332,
+            "lng": -58.226359,
+            "name": "Faro de Concepción del Uruguay"
+        },
+        "7a6fe4ef8f884c2180dc102459b901ba.16": {
+            "guid": "7a6fe4ef8f884c2180dc102459b901ba.16",
+            "lat": -32.495225,
+            "lng": -58.226628,
+            "name": "Leer para Liberarse"
+        },
+        "81bcca6c42124c20ba95ff6e8e015520.16": {
+            "guid": "81bcca6c42124c20ba95ff6e8e015520.16",
+            "lat": -32.492801,
+            "lng": -58.226127,
+            "name": "Cristo De Concepción",
+            "isEx": true
+        },
+        "be6d47158529466a8ae27b5cf3ed838b.16": {
+            "guid": "be6d47158529466a8ae27b5cf3ed838b.16",
+            "lat": -32.492551,
+            "lng": -58.225308,
+            "name": "Mural Pescados"
+        },
+        "ca9412539bfa4c15aa58f6bd7a0aa591.16": {
+            "guid": "ca9412539bfa4c15aa58f6bd7a0aa591.16",
+            "lat": -32.483417,
+            "lng": -58.224986,
+            "name": "Chica Tattoo- Mural",
+            "isEx": true
+        },
+        "617e3473e15d4b259fef41244a9ced7a.16": {
+            "guid": "617e3473e15d4b259fef41244a9ced7a.16",
+            "lat": -32.482573,
+            "lng": -58.224848,
+            "name": "Hombre Árbol - Mural"
+        },
+        "fd359e1e58574851a71d248cf855c381.16": {
+            "guid": "fd359e1e58574851a71d248cf855c381.16",
+            "lat": -32.482685,
+            "lng": -58.224599,
+            "name": "Mural: Las Cuatro Chicas"
+        },
+        "566da0c7c08143b2a68318b0f274ad01.16": {
+            "guid": "566da0c7c08143b2a68318b0f274ad01.16",
+            "lat": -32.483334,
+            "lng": -58.222184,
+            "name": "Mural Messi Con Halcón"
+        },
+        "7b753c1a7d5a49bf917a43206d179693.16": {
+            "guid": "7b753c1a7d5a49bf917a43206d179693.16",
+            "lat": -32.483856,
+            "lng": -58.224444,
+            "name": "Mural Martín pescador"
+        },
+        "11e1363bb21c4e3583d5154a188849fb.16": {
+            "guid": "11e1363bb21c4e3583d5154a188849fb.16",
+            "lat": -32.487523,
+            "lng": -58.224544,
+            "name": "Mural \"Niño en bicicleta\""
         }
     },
     "pokestops": {
@@ -1092,6 +1161,300 @@
             "lat": -32.49883,
             "lng": -58.232601,
             "name": "Pérgola de Descanso #3"
+        },
+        "54ac1b4975244fb6a8ffb30ddf2d601d.16": {
+            "guid": "54ac1b4975244fb6a8ffb30ddf2d601d.16",
+            "lat": -32.497362,
+            "lng": -58.228712,
+            "name": "Plaza Carlos Schiavo"
+        },
+        "5dfbf2061da94a9b8e56c1f21e25d62f.16": {
+            "guid": "5dfbf2061da94a9b8e56c1f21e25d62f.16",
+            "lat": -32.49657,
+            "lng": -58.22912,
+            "name": "Capilla Nuestra Señora de Fátima"
+        },
+        "a1f64af4378743f1beb15858a7fdea58.16": {
+            "guid": "a1f64af4378743f1beb15858a7fdea58.16",
+            "lat": -32.49503,
+            "lng": -58.226623,
+            "name": "Emilio Pereira"
+        },
+        "048117ca15a84378b75d12b60d034eee.16": {
+            "guid": "048117ca15a84378b75d12b60d034eee.16",
+            "lat": -32.495444,
+            "lng": -58.228267,
+            "name": "Club Parque Sur"
+        },
+        "a40ae372f620399695354b35d67ab89c.16": {
+            "guid": "a40ae372f620399695354b35d67ab89c.16",
+            "lat": -32.495975,
+            "lng": -58.228263,
+            "name": "Netoj Lagura"
+        },
+        "1450c2c92cb9473fb6a9189774abe850.16": {
+            "guid": "1450c2c92cb9473fb6a9189774abe850.16",
+            "lat": -32.496905,
+            "lng": -58.228343,
+            "name": "Elper lanegra"
+        },
+        "7e2e09b1214d430bb4851939f669fcbb.16": {
+            "guid": "7e2e09b1214d430bb4851939f669fcbb.16",
+            "lat": -32.498132,
+            "lng": -58.227486,
+            "name": "Monumento a los Pescadores de Parque Sur"
+        },
+        "19dc605f9232491b8675dd7862632698.16": {
+            "guid": "19dc605f9232491b8675dd7862632698.16",
+            "lat": -32.49837,
+            "lng": -58.228848,
+            "name": "Juegos Saludables 3"
+        },
+        "0d427afeb6ea496fa83c0107d126d7ca.16": {
+            "guid": "0d427afeb6ea496fa83c0107d126d7ca.16",
+            "lat": -32.500061,
+            "lng": -58.229003,
+            "name": "placa batalla de Itapé"
+        },
+        "30e5c41593b64a25839233f665e22294.16": {
+            "guid": "30e5c41593b64a25839233f665e22294.16",
+            "lat": -32.49192,
+            "lng": -58.225137,
+            "name": "Mural: Pareja estelar"
+        },
+        "19fb884aaf944c47bac5124165613829.16": {
+            "guid": "19fb884aaf944c47bac5124165613829.16",
+            "lat": -32.492345,
+            "lng": -58.226097,
+            "name": "Santa Rita"
+        },
+        "c66dded9516c42a29f13c631c1557d4e.16": {
+            "guid": "c66dded9516c42a29f13c631c1557d4e.16",
+            "lat": -32.49463,
+            "lng": -58.228888,
+            "name": "Academia de Boxeo \"Amilcar Brusa\""
+        },
+        "fcff2f42340645358bd3c8ca71d0b0e2.16": {
+            "guid": "fcff2f42340645358bd3c8ca71d0b0e2.16",
+            "lat": -32.491577,
+            "lng": -58.228901,
+            "name": "Casa Familia Angel Ratto"
+        },
+        "a18a100b7f954501bb7e94ceb0da0600.16": {
+            "guid": "a18a100b7f954501bb7e94ceb0da0600.16",
+            "lat": -32.490833,
+            "lng": -58.224723,
+            "name": "Ciudad Sol y Playa"
+        },
+        "81fa3cf00a3047f5914c444178e00f8c.16": {
+            "guid": "81fa3cf00a3047f5914c444178e00f8c.16",
+            "lat": -32.489974,
+            "lng": -58.224466,
+            "name": "Mural: La Naturaleza es Dios"
+        },
+        "dc580def80444b7a9564f768c5f7b73a.16": {
+            "guid": "dc580def80444b7a9564f768c5f7b73a.16",
+            "lat": -32.484612,
+            "lng": -58.228244,
+            "name": "Facultad De Humanidades"
+        },
+        "68c65769a1674193b83a4ddb5de3b97d.16": {
+            "guid": "68c65769a1674193b83a4ddb5de3b97d.16",
+            "lat": -32.484692,
+            "lng": -58.228469,
+            "name": "Sarmiento"
+        },
+        "363937ba5fe245889e676809ee5f04b1.16": {
+            "guid": "363937ba5fe245889e676809ee5f04b1.16",
+            "lat": -32.483974,
+            "lng": -58.228755,
+            "name": "Placa homenaje Asociación hogar rural \"Dolores Costa de Urquiza\""
+        },
+        "df150ea45fd547b39d9ee03fea8e1092.16": {
+            "guid": "df150ea45fd547b39d9ee03fea8e1092.16",
+            "lat": -32.483773,
+            "lng": -58.228446,
+            "name": "Mural Colibrí"
+        },
+        "6da66c20bd2f4409a65192fa01e76984.16": {
+            "guid": "6da66c20bd2f4409a65192fa01e76984.16",
+            "lat": -32.483181,
+            "lng": -58.227863,
+            "name": "Asociación de Magistrados"
+        },
+        "806a931bf6db3a5a90323226cfe6eebf.16": {
+            "guid": "806a931bf6db3a5a90323226cfe6eebf.16",
+            "lat": -32.48373,
+            "lng": -58.227371,
+            "name": "Mural \"Hombre del espejo\""
+        },
+        "0e523dda1354355eb89f880a2c8fe66f.16": {
+            "guid": "0e523dda1354355eb89f880a2c8fe66f.16",
+            "lat": -32.483956,
+            "lng": -58.227207,
+            "name": "Mural \"Hombre de la jaula\""
+        },
+        "85cfc517978144979da5ae88920723bf.16": {
+            "guid": "85cfc517978144979da5ae88920723bf.16",
+            "lat": -32.483647,
+            "lng": -58.226367,
+            "name": "Mural Micaela"
+        },
+        "6baeb4560f7141e299ec5c13d155605c.16": {
+            "guid": "6baeb4560f7141e299ec5c13d155605c.16",
+            "lat": -32.483365,
+            "lng": -58.224737,
+            "name": "Bebé Con Chupete- Mural"
+        },
+        "a9eb7aa1f8db352aa65f1c282f1fe023.16": {
+            "guid": "a9eb7aa1f8db352aa65f1c282f1fe023.16",
+            "lat": -32.482819,
+            "lng": -58.224961,
+            "name": "El hombre del acordeon"
+        },
+        "22ca657e896a46e1bcfe729d05efd307.16": {
+            "guid": "22ca657e896a46e1bcfe729d05efd307.16",
+            "lat": -32.482361,
+            "lng": -58.225586,
+            "name": "Dr. Augusto Blanchet"
+        },
+        "8d91a0114d2d3706b45ca93834855f80.16": {
+            "guid": "8d91a0114d2d3706b45ca93834855f80.16",
+            "lat": -32.482773,
+            "lng": -58.22602,
+            "name": "Mural \"Arquitectura Moderna\""
+        },
+        "8aa56ab4e7aa4c96aa123525b91c6144.16": {
+            "guid": "8aa56ab4e7aa4c96aa123525b91c6144.16",
+            "lat": -32.48228,
+            "lng": -58.226468,
+            "name": "Mural: cigarra"
+        },
+        "8019507ad6974baeac10a1d946f65de4.16": {
+            "guid": "8019507ad6974baeac10a1d946f65de4.16",
+            "lat": -32.482245,
+            "lng": -58.227889,
+            "name": "Asociación Bancaria (sindicato)"
+        },
+        "801537502a804e1ea2c2c2f1cf6408c7.16": {
+            "guid": "801537502a804e1ea2c2c2f1cf6408c7.16",
+            "lat": -32.482304,
+            "lng": -58.227376,
+            "name": "En Memoria"
+        },
+        "ef2aab676cb840d1aec9865e10c58ad8.16": {
+            "guid": "ef2aab676cb840d1aec9865e10c58ad8.16",
+            "lat": -32.483036,
+            "lng": -58.227043,
+            "name": "Mural en homenaje a la bandera"
+        },
+        "e7b64fa9a088426a8ab4f645cf168263.16": {
+            "guid": "e7b64fa9a088426a8ab4f645cf168263.16",
+            "lat": -32.481783,
+            "lng": -58.229112,
+            "name": "Facultad De Ciencias Agrarias"
+        },
+        "a937ea5a58144024aa1e2b665efd3085.16": {
+            "guid": "a937ea5a58144024aa1e2b665efd3085.16",
+            "lat": -32.480186,
+            "lng": -58.228747,
+            "name": "Unión Tranviarios Automotor"
+        },
+        "0797f844025c4de09b78b52998ce66e7.16": {
+            "guid": "0797f844025c4de09b78b52998ce66e7.16",
+            "lat": -32.480796,
+            "lng": -58.228485,
+            "name": "Mural: Naturalmente"
+        },
+        "9c4ef6787d073364be2412927d4d87d2.16": {
+            "guid": "9c4ef6787d073364be2412927d4d87d2.16",
+            "lat": -32.480838,
+            "lng": -58.227836,
+            "name": "La mano acusadora"
+        },
+        "b949982fdad940788166e23e54c0f952.16": {
+            "guid": "b949982fdad940788166e23e54c0f952.16",
+            "lat": -32.480004,
+            "lng": -58.227474,
+            "name": "Sindicato Luz y Fuerza."
+        },
+        "f31c6caa00f548f3ae3632146b6b7652.16": {
+            "guid": "f31c6caa00f548f3ae3632146b6b7652.16",
+            "lat": -32.480317,
+            "lng": -58.227019,
+            "name": "Arbol con hojas de colores"
+        },
+        "a28c46fd01d04ac686759d2686c4e49c.16": {
+            "guid": "a28c46fd01d04ac686759d2686c4e49c.16",
+            "lat": -32.483535,
+            "lng": -58.22286,
+            "name": "Cíclope Condenado"
+        },
+        "e933cfc2b35c386ea681c9d3412d589d.16": {
+            "guid": "e933cfc2b35c386ea681c9d3412d589d.16",
+            "lat": -32.484968,
+            "lng": -58.222732,
+            "name": "Zona de Descanso 2"
+        },
+        "1d68bc6fd68835b29b1f8eadda062c01.16": {
+            "guid": "1d68bc6fd68835b29b1f8eadda062c01.16",
+            "lat": -32.485926,
+            "lng": -58.222893,
+            "name": "TPCU"
+        },
+        "23b549f26c3c420ba82f2e78961e639a.16": {
+            "guid": "23b549f26c3c420ba82f2e78961e639a.16",
+            "lat": -32.484526,
+            "lng": -58.224282,
+            "name": "Mural \"Solo amor\""
+        },
+        "f5dfe638de2149e28562c6c530a53154.16": {
+            "guid": "f5dfe638de2149e28562c6c530a53154.16",
+            "lat": -32.486823,
+            "lng": -58.2247,
+            "name": "Placa Homenaje Juan José Rizzo"
+        },
+        "0dde360094a14d5ea0b2d799ce51a953.16": {
+            "guid": "0dde360094a14d5ea0b2d799ce51a953.16",
+            "lat": -32.487722,
+            "lng": -58.224501,
+            "name": "Mural: Docentes en lucha"
+        },
+        "201d305711c64ad18710299055a5dee5.16": {
+            "guid": "201d305711c64ad18710299055a5dee5.16",
+            "lat": -32.4871,
+            "lng": -58.225297,
+            "name": "Club Deportivo Almafuerte"
+        },
+        "946535f9f4244f07b7ee9145ccb4aacb.16": {
+            "guid": "946535f9f4244f07b7ee9145ccb4aacb.16",
+            "lat": -32.485632,
+            "lng": -58.225642,
+            "name": "Mural \"In Hoc Signo Vinces\""
+        },
+        "d45de773cfc84f059446191d566ab928.16": {
+            "guid": "d45de773cfc84f059446191d566ab928.16",
+            "lat": -32.487714,
+            "lng": -58.229086,
+            "name": "Mozaicos Dinosaurios"
+        },
+        "1528115caf313690b7ee780244abbfc3.16": {
+            "guid": "1528115caf313690b7ee780244abbfc3.16",
+            "lat": -32.489361,
+            "lng": -58.228813,
+            "name": "Placa \"Al futuro con viviendas\""
+        },
+        "150bd4411f7640da9258a91d3839a60d.16": {
+            "guid": "150bd4411f7640da9258a91d3839a60d.16",
+            "lat": -32.488943,
+            "lng": -58.225113,
+            "name": "Mural: El Buitre"
+        },
+        "39a5339dbbf3458dad72b972654ab390.16": {
+            "guid": "39a5339dbbf3458dad72b972654ab390.16",
+            "lat": -32.488656,
+            "lng": -58.224763,
+            "name": "Mural: cuidemos el planeta"
         }
     },
     "notpogo": {},

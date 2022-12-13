@@ -2,7 +2,7 @@
 
 > Requisitos: Tener el plugin s2check.user.js instalado.
 
-Descargamos el archivo [IITC-CdelU-1.0.0.json](https://github.com/Wokcito/IITC-CdelU/releases/download/v1.0.0/IITC-CdelU-1.0.0.json) y seguimos los siguientes pasos:
+Descargamos el archivo [IITC-CdelU-1.5.0.json](https://github.com/Wokcito/IITC-CdelU/releases/download/v1.5.0/IITC-CdelU-1.5.0.json) y seguimos los siguientes pasos:
 
 ![image](https://user-images.githubusercontent.com/99556533/207217423-82607fbd-8203-452d-bd34-5b2f2d453885.png)
 
