@@ -2,7 +2,7 @@
 
 > Requisitos: Tener el plugin s2check.user.js instalado.
 
-Descargamos el archivo [IITC-CdelU-1.35.0.json](https://github.com/Wokcito/IITC-CdelU/releases/download/v1.35.0/IITC-CdelU-1.35.0.json) y seguimos los siguientes pasos:
+Descargamos el archivo [IITC-CdelU-1.35.2.json](https://github.com/Wokcito/IITC-CdelU/releases/download/v1.35.2/IITC-CdelU-1.35.2.json) y seguimos los siguientes pasos:
 
 ![image](https://user-images.githubusercontent.com/99556533/207217423-82607fbd-8203-452d-bd34-5b2f2d453885.png)
 
@@ -34,7 +34,7 @@ Importamos el archivo descargado
 | 14  | 95afdb9f |                                                                                                                                         |
 | 15  | 95afdba1 |                                                                                                                                         |
 | 16  | 95afdb0b |                                                                                                                                         |
-| 17  | 95afdba7 |                                                                                                                                         |
+| 17  | 95afdba7 | En la celda 95afdba7fc no aparece la pokeparada 'Mural "Pitin"'[¹](#notas)                                                              |
 | 18  | 95afdb09 |                                                                                                                                         |
 | 19  | 95afdba9 |                                                                                                                                         |
 | 20  | 95afdb07 | En la celda 95afdb0734 hay dos pokeparadas activas ('Antigua Sociedad de Seguros Mutuos' y 'Escudo del Personal Embarcados')[²](#notas) |
@@ -69,5 +69,11 @@ Importamos el archivo descargado
 
 ### Notas
 
-1. Está muy cerca de una pokeparada o gym y por eso no aparece en IITC.
+1. Está muy cerca de una pokeparada o gym y por eso no aparece en IITC, pero sigue activa/o en el mapa.
 2. Probablemente en los primeros años del juego no existían las celdas y eso causa el error.
+
+### ¿Dónde veo las celdas?
+
+Usando [s2.sidewalklabs](https://s2.sidewalklabs.com/regioncoverer/) buscamos con el código de alguna celda (Por ejemplo: 95afdb01)
+
+![image](https://user-images.githubusercontent.com/99556533/207418351-6e698810-d5ea-47f5-8ce2-9edd66f20a8e.png)
